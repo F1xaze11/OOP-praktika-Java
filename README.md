@@ -5,6 +5,4 @@
 
 ## Завдання
 
-### [Завдання 1](tasks/task1.md)
-
-### [Завдання 2](tasks/task2.md)
+### [Завдання 1](https://github.com/F1xaze11/OOP-praktika-Java/pull/1)
