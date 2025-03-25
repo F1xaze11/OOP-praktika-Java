@@ -7,8 +7,9 @@
 
 ### [Завдання 1](https://github.com/F1xaze11/OOP-praktika-Java/tree/main/Проект%20Java/PR%201)
 
-![Результат Завдання 1](images/result_task1.png)
+![Результат Завдання 1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/Завдання%201.jpg)
 
 ### [Завдання 2](https://github.com/F1xaze11/OOP-praktika-Java/tree/main/Проект%20Java/PR%202)
 
-![Результат Завдання 2](images/result_task2.png)
+![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/Завдання%202.1.jpg)
+![Результат Завдання 2.2](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/Завдання%202.2.jpg)
