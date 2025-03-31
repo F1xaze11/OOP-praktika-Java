@@ -41,7 +41,7 @@
 ![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%204.1.jpg)
 *Виведення результату обчислення у табличній формі*
 
-### [Завдання 4](https://github.com/F1xaze11/OOP-praktika-Java/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Java/PR%205)
+### [Завдання 5](https://github.com/F1xaze11/OOP-praktika-Java/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Java/PR%205)
 
 ![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%205.1.jpg)
 
@@ -50,3 +50,17 @@
 ![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%205.2.jpg)
 
 *Результат послідовного виконання команд: macro (масштабування 1.1 та сортування), scale (масштабування 2.0), sort і print для виводу результату*
+
+### [Завдання 6](https://github.com/F1xaze11/OOP-praktika-Java/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Java/PR%206)
+
+![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%206.1.jpg)
+
+*Тестування*
+
+![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%206.2.jpg)
+
+*Додавання значень: min, max, avg*
+
+![Результат Завдання 2.1](https://github.com/F1xaze11/OOP-praktika-Java/blob/main/images/%D0%97%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%206.3.jpg)
+
+*Додавання свого значення "add" та виведення результату*
