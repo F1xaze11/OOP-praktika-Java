@@ -5,7 +5,7 @@ import java.io.ObjectOutputStream;
 import java.io.ObjectInputStream;
 import java.io.IOException;
 import java.util.Scanner;
-public class SerializationDemo {
+public class Serialization {
     private static final String FILE_NAME = "calculation.ser";
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
