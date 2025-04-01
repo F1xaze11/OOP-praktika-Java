@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.io.IOException;
 import java.util.List;
 
-public class MainFactoryDemoTest {
+public class MainFactoryTest {
 
     @Test
     public void testCalculation() {
