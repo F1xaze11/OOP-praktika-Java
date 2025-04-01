@@ -3,7 +3,7 @@ package com.primer.serialization;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class MainFactoryDemo {
+public class MainFactory {
     private static final String FILE_NAME = "collection.ser";
     private static ResultDisplayFactory factory = new TextResultDisplayFactory();
     // За замовчуванням - текстовий формат
